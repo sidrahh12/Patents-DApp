@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "hardhat": "^2.18.3",
+    "@nomiclabs/hardhat-waffle": "^2.1.2",
+    "@nomiclabs/hardhat-ethers": "^2.1.2",
+    "@nomicfoundation/hardhat-toolbox": "^3.2.1"
+  }
+}
