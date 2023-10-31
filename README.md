@@ -32,6 +32,7 @@ This Solidity dApp allows users to register patents and pay the associated fees.
 
 
 5. Deploy the smart contract to your chosen Ethereum network. You'll need to set up a `secrets.json` file with your Ethereum wallet private key and network URL.
+
 ```npx hardhat run scripts/deploy.js --network <network-name>```
 Replace `<network-name>` with your desired Ethereum network (e.g., `rinkeby`, `mainnet`, or `localhost` for local development).
 
