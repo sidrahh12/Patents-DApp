@@ -16,7 +16,7 @@ This Solidity dApp allows users to register patents and pay the associated fees.
 
 **Steps:**
 1. Clone the repository to your local machine:
-```git clone <https://github.com/sidrahh12/Sidrah-Ahmed-Final-Project.git>```
+```git clone <https://github.com/sidrahh12/Patents-DApp.git>```
 
 
 2. Navigate to the project directory:
