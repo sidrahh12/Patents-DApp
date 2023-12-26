@@ -37,7 +37,7 @@ Replace `<network-name>` with your desired Ethereum network (e.g., `rinkeby`, `m
 
 
 6. Start the dApp locally:
-npm start
+```npm start```
 
 
 The dApp should be accessible at `http://localhost:3000`.
