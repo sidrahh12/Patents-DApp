@@ -1,4 +1,4 @@
-# Solidity dApp for Patent Registration
+# Solidity dApp for Patent Registration  (Check Master branch)
 
 **Description:**
 This Solidity dApp allows users to register patents and pay the associated fees. It's implemented on the Ethereum blockchain.
